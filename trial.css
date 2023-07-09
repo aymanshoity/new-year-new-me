@@ -47,4 +47,59 @@
     margin-top: 32px;
 
 }
+.footer{
+    display: flex;
+    background: #151414;
+    color: #F8F8F8;
+    font-family: Work Sans;
+    justify-content: space-around;
+    
+#footer heading{
+    font-size: 45px;
+    font-weight: 700px;
 
+}
+.footer-des{
+    width: 485px;font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.footer-image{
+    margin-top: 32px;
+    margin-right: 16px;
+    
+}
+.footer-end-heading{
+    font-size: 25px;
+    font-weight: 600;
+
+}
+.form{
+    background:  #151414;
+    margin-top: 30px;
+}
+.input{
+    color:  #F3F3F3;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 21px 158px 21px 21px;
+    border-radius: 10px;
+
+}
+.final-button{
+    border-radius: 8px;
+    background: #FFF;
+    color: #F15B22;
+    font-family: Inter;
+    font-size: 20px;
+    padding: 20px 36px;
+    font-weight: 600;
+    margin-top: 16px;
+
+}
+.footer-message{
+    margin-top: 130px;
+}
+.footer-end{
+    margin-top: 130px;
+}
